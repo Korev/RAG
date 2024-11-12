@@ -1,0 +1,13 @@
+langchain_core
+langchain-ollama
+langchain_community
+langchain-chroma
+
+python-dotenv
+streamlit
+sse_starlette
+bs4
+playwright
+nest_asyncio
+chromadb
+faiss-cpu
